@@ -5,3 +5,35 @@
   list-style-type: none;
   box-sizing: border-box;
 }
+
+:root {
+  .chng-color {}
+}
+
+.container-general {
+  .container-left {
+    header {
+      nav {
+        .container-uper-left {
+          .symbol {}
+          .title-project {}
+        }
+
+        .change-modes {}
+      }
+
+      .desc {}
+    }
+
+    main {
+      .container-down-left {
+        .about {}
+        .desc-about {}
+      }
+      
+      .container-grid-display {}
+    }
+  }
+
+  .container-right {}
+}
