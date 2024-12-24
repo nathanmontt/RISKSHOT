@@ -1,10 +1,12 @@
-// 'use strict'
+'use strict'
 
-// Caso não funcione, usar a função DOMContentLoaded: document.addEventListener("DOMContentLoaded", function () {});
+// Caso não funcione sem, usar a função DOMContentLoaded:
+ 
+document.addEventListener("DOMContentLoaded", function () {
+    const changeColors = document.querySelectorAll(".chng-color");
+    const btnCtaModes = document.getElementById("btn-cta-change-modes");
 
-
-// const textClickMe = document.querySelector(".test")
-
-// textClickMe.addEventListener("click", function () {
-//     console.log("clicado!")
-// })
+    btnCtaModes.addEventListener("click", function () {
+        alert("Hello World!")
+    });
+});

@@ -32,7 +32,7 @@
   font-weight: 300;
   font-size: 0.8em;
 }
-.container-general .container-left header nav .btn-cta-change-modes {
+.container-general .container-left header nav #btn-cta-change-modes {
   background-color: transparent;
   font-weight: 300;
   border: none;
@@ -42,6 +42,10 @@
   font-size: 2.5em;
   font-weight: 400;
   margin-top: 1em;
+}
+.container-general .container-left header .desc .dif-text {
+  font-style: italic;
+  font-size: 0.7em;
 }
 .container-general .container-left main {
   display: grid;
