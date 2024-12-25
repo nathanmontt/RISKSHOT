@@ -2,14 +2,13 @@
 
 :root {
   --mainFont: "Roboto", serif;
-  .chng-color {
-    // color: blue;
-  }
-
-  body {
-    // background-color: black;
-  }
+  --blackMode: #636363;
+  --descFieldColor: #959595;
 }
+
+// .black {
+//   background-color: aqua;
+// }
 
 * {
   margin: 0;
@@ -91,7 +90,9 @@
         }
 
         .desc-field {
-          font-weight: 300;
+          color: var(--descFieldColor);
+          font-size: .8em;
+          font-weight: 400;
         }
       }
       
