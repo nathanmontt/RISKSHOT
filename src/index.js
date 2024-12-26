@@ -40,7 +40,7 @@ btn.addEventListener("click", function () {
             body.style.backgroundColor = darkModeBg;
             element.style.color = darkModeLetters;
 
-            symbolChange.src = "./assets/icons/dot-dark-mode.png"
+            symbolChange.src = "./assets/imgs/dot-dark-mode.png"
         } else {
             element.classList.add('change-COLOR')
 
@@ -48,7 +48,7 @@ btn.addEventListener("click", function () {
             element.style.color = 'black';
             
             symbolChange.style.width = '1.5em';
-            symbolChange.src = "./assets/icons/dot-white-mode.png";
+            symbolChange.src = "./assets/imgs/dot-white-mode.png";
         }
     })
 });
