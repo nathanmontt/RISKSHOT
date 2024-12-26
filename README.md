@@ -45,6 +45,7 @@ Para futuras <em>features</em>, alguns opções podem ser levadas em consideraç
 
 *Feature* | Motivo
 :---------: | :------:
+**Imagem** | Consertar a imagem que está dando problema
 **Páginas** | Adicionar mais páginas ao projeto. Apenas o *card* para a agência é muito raso
 **Loja** | Adicionar um mostrurário de produtos. Como é uma agência, são necessários pacotes para que o usuário saiba o que está comprando
 
