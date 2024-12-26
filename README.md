@@ -25,6 +25,13 @@ Para o projeto em questão, sendo o primeiro de muitos, o conhecimento necessár
 
 <h1 id="execute"> Como executar </h1>
 
+O <a href="https://riskshot.vercel.app/">link</a> para o projeto se encontra ao lado. Porém, ainda não está completamente completo. A parte principal, a imagem, está com problemas. Debbugando o código mais para frente, o site em si deverá aparecer dessa forma:
+
+Como *White Mode*
+![white-mode](https://github.com/nathanmontt/RISKSHOT/tree/main/src/assets/imgs/project-dark-mode.png "White Mode Card")
+
+E como *Dark Mode*
+![dark-mode](https://github.com/nathanmontt/RISKSHOT/tree/main/src/assets/imgs/project-dark-mode.png "Dark Mode Card")
 
 <h1 id="contribuition"> Contribuindo </h1>
 
