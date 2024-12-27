@@ -10,6 +10,7 @@
 * [Como executar](#execute)
 * [Contribuindo](#contribuition)
 * [*Features* Futuras](#fut-feats)
+* [Inspirações](#inspirations)
 * [Créditos](#credits)
 
 
@@ -48,6 +49,10 @@ Para futuras <em>features</em>, alguns opções podem ser levadas em consideraç
 **Imagem** | Consertar a imagem que está dando problema
 **Páginas** | Adicionar mais páginas ao projeto. Apenas o *card* para a agência é muito raso
 **Loja** | Adicionar um mostrurário de produtos. Como é uma agência, são necessários pacotes para que o usuário saiba o que está comprando
+
+<h1 id="inspirations"> Inspirações </h1>
+
+Como início, tentando achar inspirações, foi tentado dar vida a trabalhos já feitos. O projeto de destaque foi do autor <a href="https://dribbble.com/shots/23515976-Art-direction-project">Gil</a>. Outro bastante parecido foi o trabalho do <a href="https://dribbble.com/shots/24039827-Layout-Exploration">Iván Willenberg</a>.
 
 <h1 id="credits"> Créditos </h1>
 
