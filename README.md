@@ -41,8 +41,8 @@ Para futuras <em>features</em>, alguns opções podem ser levadas em consideraç
 *Feature* | Motivo
 :---------: | :------:
 **Imagem** | Consertar a imagem que está dando problema (**CORRIGIDO**)
-**Páginas** | Adicionar mais páginas ao projeto, como um *About Us*, *Products*. Apenas o *card* para a agência é muito raso
-**Responsividade** | Tornar a aplicação mais responsiva (para próximos projetos, aplicar o conceito de *mobile first*
+**Páginas** | Adicionar mais páginas, como *About Us*, *Products*, entre outros, e não apenas o *card* como está
+**Responsividade** | Tornar a aplicação mais responsiva (para próximos projetos, aplicar o conceito de *mobile first*)
 
 <h1 id="inspirations"> Inspirações </h1>
 
