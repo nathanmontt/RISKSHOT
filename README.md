@@ -21,23 +21,17 @@
 
 <h1 id="abilities"> Habilidades Adquiridas/Requisitadas </h1>
 
-Para o projeto em questão, sendo o primeiro de muitos, o conhecimento necessário é o inicial. Linguagens como <b>HTML</b>, o pré-processador de <b>CSS</b>, <b>SCSS</b> e <b>JavaScript</b></b>
+Para o projeto em questão, sendo o primeiro de muitos, o conhecimento necessário é o inicial. Linguagens como <b>HTML</b>, o pré-processador de <b>CSS</b>, <b>SCSS</b>, e <b>JavaScript</b></b>.
 
 
 <h1 id="execute"> Como executar </h1>
 
-O <a href="https://riskshot.vercel.app/" target="_blank">link</a> para o projeto se encontra ao lado. Porém, ainda não está completamente completo. A parte principal, a imagem, está com problemas. Debbugando o código mais para frente, o site em si deverá aparecer dessa forma:
-
-Como *White Mode*
-![white-mode](https://github.com/nathanmontt/RISKSHOT/blob/main/src/assets/imgs/project-white-mode.png)
-
-E como *Dark Mode*
-![dark-mode](https://github.com/nathanmontt/RISKSHOT/blob/main/src/assets/imgs/project-dark-mode.png)
+É possível entrar no site apenas acessando os links, seja <a href="https://riskshot.vercel.app/" target="_blank">por aqui</a> ou no link ao lado.
 
 
 <h1 id="contribuition"> Contribuindo </h1>
 
-No momento, não há contruibuições. Caso se interesse em incorporar o projeto, fique à vontade!
+No momento, não há contruibuições. <!-- Caso se interesse em incorporar o projeto, fique à vontade-->
 
 
 <h1 id="fut-feats"> <em>Features</em> Futuras </h1>
@@ -46,13 +40,13 @@ Para futuras <em>features</em>, alguns opções podem ser levadas em consideraç
 
 *Feature* | Motivo
 :---------: | :------:
-**Imagem** | Consertar a imagem que está dando problema
+**Imagem** | Consertar a imagem que está dando problema (**CORRIGIDO**)
 **Páginas** | Adicionar mais páginas ao projeto. Apenas o *card* para a agência é muito raso
 **Loja** | Adicionar um mostrurário de produtos. Como é uma agência, são necessários pacotes para que o usuário saiba o que está comprando
 
 <h1 id="inspirations"> Inspirações </h1>
 
-Como início, tentando achar inspirações, foi tentado dar vida a trabalhos já feitos. O projeto de destaque foi do autor <a href="https://dribbble.com/shots/23515976-Art-direction-project">Gil</a>. Outro bastante parecido foi o trabalho do <a href="https://dribbble.com/shots/24039827-Layout-Exploration">Iván Willenberg</a>.
+De início, procurando inspirações, a ideia foi tentar dar vida a trabalhos já feitos. O projeto de destaque foi do autor <a href="https://dribbble.com/shots/23515976-Art-direction-project">Gil</a>. Outro bastante parecido foi o trabalho do <a href="https://dribbble.com/shots/24039827-Layout-Exploration">Iván Willenberg</a>.
 
 <h1 id="credits"> Créditos </h1>
 
